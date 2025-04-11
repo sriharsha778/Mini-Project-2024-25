@@ -1,4 +1,2 @@
 export const THEMES = [
-  "light",
-  "dark",
-  "cupcake",];
+  "sythwave", "retro" ,"valentine" ,"black", "wireframe", "nord" ,"bussiness", "dim"];
